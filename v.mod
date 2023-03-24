@@ -2,6 +2,6 @@ Module {
 	name: 'godot-v'
 	description: ''
 	version: ''
-	license: ''
+	license: 'MIT'
 	dependencies: []
 }

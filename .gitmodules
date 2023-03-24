@@ -1,0 +1,4 @@
+[submodule "include/godot-header-3.5.1"]
+	path = include/godot-header-3.5.1
+	url = https://github.com/godotengine/godot-headers.git
+	branch = 3.x
